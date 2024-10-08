@@ -1,0 +1,12 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nan Liang",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "actions-on-google": "^3.0.0",
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
